@@ -1,2 +1,2 @@
 # Speedcubing-timer-console
-konsoly timer C/C++
+konsolowy timer C/C++
